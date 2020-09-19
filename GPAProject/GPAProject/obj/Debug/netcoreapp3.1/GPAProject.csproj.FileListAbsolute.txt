@@ -1,0 +1,13 @@
+C:\Users\Matej\source\repos\GPAProject\GPAProject\obj\Debug\netcoreapp3.1\GPAProject.AssemblyInfoInputs.cache
+C:\Users\Matej\source\repos\GPAProject\GPAProject\obj\Debug\netcoreapp3.1\GPAProject.AssemblyInfo.cs
+C:\Users\Matej\source\repos\GPAProject\GPAProject\obj\Debug\netcoreapp3.1\GPAProject.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\GPAProject\GPAProject\bin\Debug\netcoreapp3.1\GPAProject.exe
+C:\Users\Matej\source\repos\GPAProject\GPAProject\bin\Debug\netcoreapp3.1\GPAProject.deps.json
+C:\Users\Matej\source\repos\GPAProject\GPAProject\bin\Debug\netcoreapp3.1\GPAProject.runtimeconfig.json
+C:\Users\Matej\source\repos\GPAProject\GPAProject\bin\Debug\netcoreapp3.1\GPAProject.runtimeconfig.dev.json
+C:\Users\Matej\source\repos\GPAProject\GPAProject\bin\Debug\netcoreapp3.1\GPAProject.dll
+C:\Users\Matej\source\repos\GPAProject\GPAProject\bin\Debug\netcoreapp3.1\GPAProject.pdb
+C:\Users\Matej\source\repos\GPAProject\GPAProject\obj\Debug\netcoreapp3.1\GPAProject.dll
+C:\Users\Matej\source\repos\GPAProject\GPAProject\obj\Debug\netcoreapp3.1\GPAProject.pdb
+C:\Users\Matej\source\repos\GPAProject\GPAProject\obj\Debug\netcoreapp3.1\GPAProject.genruntimeconfig.cache
+C:\Users\Matej\source\repos\GPAProject\GPAProject\obj\Debug\netcoreapp3.1\GPAProject.csprojAssemblyReference.cache
